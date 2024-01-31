@@ -1,0 +1,14 @@
+{
+  "name": "KedaiKoppel",
+  "start_url": "http://localhost/KedaiKoppel",
+  "display": "standalone",
+  "background_color": "#f8fcfa",
+  "theme_color": "#f8fcfa",
+  "icons": [
+    {
+      "src": "/download.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ]
+}
